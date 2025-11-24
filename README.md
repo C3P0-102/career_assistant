@@ -1,4 +1,4 @@
-# 1_foundations Agent - app.py 🚀
+app.py 🚀
 
 ## Welcome! 👋
 
@@ -53,14 +53,3 @@ A chat window will open in your browser where you can start talking with Ed! �
 
 Feel free to contribute! You can improve the chat features, add new tools, or enhance the user experience.
 
-## License 📄
-
-Add your license information here.
-
-## Need Help? 📧
-
-If you have questions or want to get in touch, contact Ed Donner at [your-email@example.com].
-
----
-
-Thanks for checking out the 1_foundations agent! Enjoy chatting with Ed! 😊
