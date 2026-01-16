@@ -15,8 +15,8 @@ This is `app.py`, a smart conversational agent, designed to chat with visitors o
   <p align="center">
     <img
       src="https://github.com/user-attachments/assets/56b20630-d90a-49f8-b8c7-f1b3b23fa492"
-      height = 480px,
-      width = 480px>
+      height = 450px,
+      width = 720px>
   </p>
 
 ## Getting Started 🛠️
