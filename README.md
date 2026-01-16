@@ -2,12 +2,11 @@ app.py 🚀
 
 ## Welcome! 👋
 
-This is `app.py`, a smart conversational agent, designed to chat with visitors on a website. It answers your questions about Ed's career, skills, background, and much more with the help of advanced AI!
+This is `app.py`, a smart conversational agent, designed to chat with visitors on a website. It answers your questions about career, skills, background, and much more with the help of advanced AI!
 
 ## What Can It Do? 🌟
 
 - Chat with users in natural language using [OpenAI GPT-4o-mini](https://openai.com)
-- Pull details from Ed's LinkedIn resume (PDF) to provide accurate info
 - Record user contact info and questions for follow-up
 - Send instant notifications when someone shows interest (via Pushover)
 - Friendly web chat interface powered by Gradio
