@@ -12,6 +12,13 @@ This is `app.py`, a smart conversational agent, designed to chat with visitors o
 - Send instant notifications when someone shows interest (via Pushover)
 - Friendly web chat interface powered by Gradio
 
+  <p align="center">
+    <img
+      src="https://github.com/user-attachments/assets/56b20630-d90a-49f8-b8c7-f1b3b23fa492"
+      height = 480px,
+      width = 480px>
+  </p>
+
 ## Getting Started 🛠️
 
 Make sure you have Python 3.8 or higher installed on your computer.
